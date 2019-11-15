@@ -1,0 +1,4 @@
+1.0.3 Mac issues fix
+1.0.2 Changed decompression method
+1.0.1 Added support for Unity 2018.1.0, resolved errors connected with linear gradients
+1.0.0 First release
